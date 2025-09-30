@@ -1,0 +1,8 @@
+[
+    {"id":1,"name":"Laptop","category":"Electronics","price":45000,"image":"https://via.placeholder.com/200?text=Laptop"},
+    {"id":2,"name":"Mobile","category":"Electronics","price":15000,"image":"https://via.placeholder.com/200?text=Mobile"},
+    {"id":3,"name":"Shoes","category":"Fashion","price":2500,"image":"https://via.placeholder.com/200?text=Shoes"},
+    {"id":4,"name":"T-Shirt","category":"Fashion","price":800,"image":"https://via.placeholder.com/200?text=T-Shirt"},
+    {"id":5,"name":"Washing Machine","category":"Appliances","price":22000,"image":"https://via.placeholder.com/200?text=Washing+Machine"}
+  ]
+  
